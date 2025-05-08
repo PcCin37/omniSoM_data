@@ -1,6 +1,6 @@
 # omniSoM_data
 
-testcase 文件夹中包含了所有的测试用例
+master 分支中包含了所有的测试用例
 
 /img 中有原始的测试图例
 
